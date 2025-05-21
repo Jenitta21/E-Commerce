@@ -16,7 +16,7 @@ Amoura is a modern, responsive e-Commerce website built using HTML, CSS, and Jav
 
 ## 🔗 Live Demo
 
-👉 [Visit Portfolio] - ()
+👉 [Visit Portfolio] - (https://jenitta21.github.io/E-Commerce/)
 
 ---
 
